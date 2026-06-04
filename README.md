@@ -115,6 +115,5 @@ This project is part of a portfolio targeting **automotive and industrial embedd
 
 ## Author
 
-**Ansari**
-Embedded Systems Engineer — Vi Microsystems
-Hardware: STM32F411RE · STM32H723ZG · ESP32 · RP2040 · LoRa
+**Thamim Ansari S**
+Embedded Systems Engineer 
